@@ -1,7 +1,8 @@
-# django-todo
-A simple todo app built with django
+# Django Todo-App CI/CD Pipeline
 
+This project demonstrates a DevOps pipeline for a Django Todo-App. The goal of the project was to clone an existing GitHub repository, create a Dockerfile, and set up a CI/CD pipeline for deploying the application.
 ![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/todoApp.png)
+
 ### Setup
 To get this repository, run the following command inside your git enabled terminal
 ```bash
