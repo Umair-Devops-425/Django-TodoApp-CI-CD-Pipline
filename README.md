@@ -4,7 +4,7 @@ This project show that how we had automate the deployment of TodoApp using Jenki
 
 # Docker File
 
-![todo App](![image](https://github.com/user-attachments/assets/3439cba6-2590-4ac1-9ce5-1a144bc6ecf6)
+![todo App](![image](A1.png)
 )
 
 ### Setup
