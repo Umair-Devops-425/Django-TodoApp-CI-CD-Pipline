@@ -9,3 +9,13 @@ Make sure you have the following installed on your Amazon Web Server (AWS):
 * Git : [Git](https://git-scm.com/)
 * Docker : [Docker](https://docs.docker.com/get-docker/)
 * Jenkins : [jenkins](https://www.jenkins.io/doc/book/installing/)
+
+## Getting Started
+
+### Making a Directory
+
+> mkdir (django-TodoApp)
+
+### Clone the repository
+
+Cloning a repository in a Directory (django-TodoApp) in AWS EC2 instance
