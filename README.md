@@ -19,3 +19,15 @@ Make sure you have the following installed on your Amazon Web Server (AWS):
 ### Clone the repository
 
 Cloning a repository in a Directory (django-TodoApp) in AWS EC2 instance
+
+> git clone https://github.com/shreys7/django-todo.git
+
+### DockerFile
+
+Creating a DockerFile to automate Deployment
+
+![image](./asseets/A3.png)
+
+### Setting Up Jenkins
+
+1. Start Jenkins :
