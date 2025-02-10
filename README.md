@@ -14,9 +14,7 @@ Make sure you have the following installed on your Amazon Web Server (AWS):
 
 ### Making a Directory
 
-``` 
-mkdir django-TodoApp
-```
+> mkdir (django-TodoApp)
 
 ### Clone the repository
 
@@ -32,4 +30,5 @@ Creating a DockerFile to automate Deployment
 
 ### Setting Up Jenkins
 
-1. Start Jenkins :
+1. Start Jenkins : 
+   * If you have Jenkins installed, start the Jenkins server.
