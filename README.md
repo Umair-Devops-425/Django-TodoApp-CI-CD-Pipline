@@ -55,6 +55,7 @@ Creating a DockerFile to automate Deployment
 ![image](./asseets/A2.png)   
 
 4. Check That is Todo-App is running on server `http:// localhost:8000`.
+
 ![image](./asseets/A4.png)
 
         
