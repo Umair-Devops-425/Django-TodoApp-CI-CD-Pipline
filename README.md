@@ -34,5 +34,27 @@ Creating a DockerFile to automate Deployment
 
 ### Setting Up Jenkins
 
+<<<<<<< HEAD
 1. Start Jenkins : 
    * If you have Jenkins installed, start the Jenkins server.
+   * Access Jenkins via your browser at `http://localhost:8080`.
+
+2. Install Required Plugins :
+   * Go to `Manage Jenkins` > `Manage Plugins`.
+   * Install the following plugins (if not already installed):
+     - Docker Pipeline
+     - GitHub Integration
+
+3. Create a Job in Jenkins Dashboard :
+   * Create Freestyle-Pipeline
+   * Build Steps -> Execute Shell
+   ``` 
+   sudo docker build . -t todo-app
+   sudo docker run -p 8000:8000 -d todo-app
+   ```
+![image](./asseets/A2.png)   
+
+4. Check That is Todo-App is running on server `http:// localhost:8000`.
+![image](./asseets/A4.png)
+
+        
