@@ -22,7 +22,9 @@ mkdir django-TodoApp
 
 Cloning a repository in a Directory (django-TodoApp) in AWS EC2 instance
 
-> git clone https://github.com/shreys7/django-todo.git
+```
+git clone https://github.com/shreys7/django-todo.git
+```
 
 ### DockerFile
 
