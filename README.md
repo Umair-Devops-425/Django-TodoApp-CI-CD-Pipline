@@ -14,13 +14,13 @@ Make sure you have the following installed on your Amazon Web Server (AWS):
 
 ### Making a Directory
 
-mkdir django-TodoApp
+``` mkdir django-TodoApp ```
 
 ### Clone the repository
 
 Cloning a repository in a Directory (django-TodoApp) in AWS EC2 instance
 
-> git clone https://github.com/shreys7/django-todo.git
+``` git clone https://github.com/shreys7/django-todo.git ```
 
 ### DockerFile
 
