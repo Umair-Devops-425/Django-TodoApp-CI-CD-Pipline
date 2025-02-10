@@ -14,7 +14,9 @@ Make sure you have the following installed on your Amazon Web Server (AWS):
 
 ### Making a Directory
 
-> mkdir (django-TodoApp)
+``` 
+mkdir django-TodoApp 
+```
 
 ### Clone the repository
 
