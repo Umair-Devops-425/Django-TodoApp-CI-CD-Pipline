@@ -1,4 +1,4 @@
-# Deployment Using Jenkins CI/CD Pipeline 
+# Django TodoApp deployed using Jenkins CI/CD Pipeline
 
 This project provides a step-by-step guide to deploy a sample code from a GitHub repository using Jenkins and Docker. The goal is to automate the deployment process, making it easier to build, test, and deploy applications using Amazon Web Server(AWS).
 
